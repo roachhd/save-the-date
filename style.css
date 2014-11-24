@@ -162,6 +162,44 @@ h2,.beta,h3,.gamma
     float:none;
     margin:0 auto 1.5rem;
   }
+
+body, div, h1, h2, h3, h4, h5, h6, p, ul, ol, li, dl, dt, dd, img, form, fieldset, blockquote {
+
+	margin: 0; padding: 0; border: 0;
+
+}
+
+ 
+
+body {
+
+	background: #eee;
+
+}
+
+ 
+
+@font-face {
+
+	font-family: League-Gothic;
+
+	src: url("League-Gothic.otf") format("opentype");
+
+}
+
+ 
+
+@font-face {
+
+	font-family: Museo;
+
+	src: url("Museo300-Regular.otf") format("opentype");
+
+}
+
+ 
+
+
 }
 
 h1 {
