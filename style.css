@@ -32,7 +32,6 @@ h1,.alpha
 .amp
 {
   font-style:italic;
-  text-shadow: 5px 5px 0px #eee, 7px 7px 0px #707070;
 }
 
 a
@@ -164,3 +163,13 @@ h2,.beta,h3,.gamma
     margin:0 auto 1.5rem;
   }
 }
+
+h1 {
+	text-align: center;
+	margin: 200px auto;
+	font-family: "League-Gothic", Courier;
+	font-size: 200px; text-transform: uppercase;
+	color: #707070;
+	text-shadow: 5px 5px 0px #eee, 7px 7px 0px #707070;
+}
+
